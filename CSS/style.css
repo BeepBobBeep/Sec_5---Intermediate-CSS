@@ -34,5 +34,6 @@ div{
 }
 .bottom-container{
     background-color: blue;
+    /* 260{previous} + 200{width} + 2*20{border of previous} = 500px */
     margin-left: 500px;
 }
