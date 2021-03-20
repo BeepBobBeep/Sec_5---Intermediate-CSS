@@ -3,18 +3,20 @@
 body {
     margin: 0;
     text-align: center;
-    font-family: 'Merriweather Sans', sans-serif;    
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 h1 {
-    margin-top:0;
+    margin: 50px auto 0;
     margin-left: auto;
     margin-right: auto;
     font-family: 'Caveat', cursive;
+    font-size: 5.62rem; /*or 90px or 562% */
 }
 
 h2{
     font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
 }
 
 h3{
@@ -25,19 +27,19 @@ h3{
 .top-container{
     background-color: #fbeeac;
     position: relative;
-    padding-top: 10%;
+    padding-top: 5%;
 }
 
 .topCloud{
     position: absolute;
-    right: 26%;
-    top: 14%;
+    right: 200px;
+    top: 7%;
 }
 
 .bottomCloud{
     position: absolute;
-    left: 30%;
-    bottom: 50%;
+    left: 200px;
+    bottom: 250px;
 }
 
 .profilePic{
