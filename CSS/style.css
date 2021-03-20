@@ -49,15 +49,29 @@ h3{
     width: 280px;
 }
 
-.skill_logo{
-    width: 170px;
+.C_logo{
+    width: 150px;
+    float: left;
+    margin-right: 10px;
 }
 
+.tf_logo{
+    width: 150px;
+    float: right;
+    margin-left: 20px;
+}
 .middle-container{
     
 }
 .bottom-container{
     
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
 }
 
 .footer-link{
