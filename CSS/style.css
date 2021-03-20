@@ -40,13 +40,17 @@ h3{
     bottom: 50%;
 }
 
+.profilePic{
+    width: 280px;
+}
+
+.skill_logo{
+    width: 170px;
+}
+
 .middle-container{
-    height: 200px;
-    width: 200px;
-    background-color: red;
+    
 }
 .bottom-container{
-    height: 200px;
-    width: 200px;
-    background-color: blue;
+    
 }
