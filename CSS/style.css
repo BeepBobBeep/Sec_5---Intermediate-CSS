@@ -12,15 +12,18 @@ h1 {
     margin-right: auto;
     font-family: 'Caveat', cursive;
     font-size: 5.62rem; /*or 90px or 562% */
+    color:  #66BFBF;
 }
 
 h2{
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
+    color:  #66BFBF;
 }
 
 h3{
     font-family: 'Montserrat', sans-serif;
+    color: #11999E;
 }
 /* CLASSES SELECTORS */
 
@@ -55,4 +58,12 @@ h3{
 }
 .bottom-container{
     
+}
+
+.footer-link{
+    color: #11999E;
+}
+
+.a_programmer{
+    font-weight: normal;
 }
